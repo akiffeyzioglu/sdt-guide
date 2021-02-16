@@ -38,7 +38,6 @@ Moderator - Akif Feyzioğlu
 Moderator - Malik Masis
 Moderator - Önder Bakırtaş
 
-
 💜 Join us: https://discord.gg/CjRWT3C9
 ```
 
