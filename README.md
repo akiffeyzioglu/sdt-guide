@@ -23,6 +23,7 @@ Bizi biz yapan topluluk üyelerimize, her şeyden çok önem veriyoruz. Köklü 
 - [Moderasyon](pages/moderation.md)
 - [Doğru Soru](pages/right-question.md)
 - [Sıkça Sorulan Sorular](pages/sss.md)
+- [SDTR Discord Map](pages/dismap.txt)
 
 ---
 
